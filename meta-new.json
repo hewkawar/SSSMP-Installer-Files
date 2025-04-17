@@ -1,0 +1,12 @@
+{
+    "betaVersionSnippet": "Custom Uniforms",
+    "hasBeta": false,
+    "versions": [
+        {
+            "name": "6.0.0",
+            "outdated": false,
+            "snapshot": false,
+            "hasBeta": false
+        }
+    ]
+}
